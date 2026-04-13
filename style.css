@@ -1,0 +1,14 @@
+header{
+    background-color: deepskyblue;
+    color:darkblue;
+    text-align: center;
+}
+
+body{
+    background-color: bisque;
+}
+footer{
+    background-color: chocolate;
+    color: black;
+    text-align: center;
+}
